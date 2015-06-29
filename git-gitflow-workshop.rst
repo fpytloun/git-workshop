@@ -410,3 +410,19 @@ Branches in Gitflow
 ----
 
 .. image:: ./images/gitflow.png
+
+----
+
+Questions? :-)
+==============
+
+.. image:: ./images/torvalds.png
+
+----
+
+Reference
+=========
+
+- `Git flow cheatsheet <https://github.com/danielkummer/git-flow-cheatsheet>`_
+- `Comparing workflows <https://www.atlassian.com/git/tutorials/comparing-workflows>`_
+- `Taiga Gitlab integration <https://taiga.io/support/gitlab-integration/>`_
