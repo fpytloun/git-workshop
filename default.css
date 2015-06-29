@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,700|Source+Code+Pro:400,700);
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.4em;
+}
+
+pre {
+    font-family: 'Source Code Pro', courier-new;
+    font-size: 0.8em;
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    border: 1px solid #303030;
+
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+
+strong {
+    color: #000040;
+}
+
+h1 {
+    color: #000040;
+}
+
+h2 {
+    color: #303030;
+}
+
+ul > li {
+    margin-top: 10px;
+}
+
+li > ul {
+    font-size: 0.8em;
+}
+
+dl > dt {
+    font-weight: bold;
+}
