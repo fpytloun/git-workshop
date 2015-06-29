@@ -1,8 +1,10 @@
 :css: ./default.css
 :skip-help: true
 
-Git and Gitflow Workshop
-========================
+.. title:: Git workshop
+
+Git workshop
+============
 
 Filip Pytloun
 -------------
