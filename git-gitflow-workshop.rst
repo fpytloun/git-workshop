@@ -428,3 +428,4 @@ Reference
 - `Git flow cheatsheet <https://github.com/danielkummer/git-flow-cheatsheet>`_
 - `Comparing workflows <https://www.atlassian.com/git/tutorials/comparing-workflows>`_
 - `Taiga Gitlab integration <https://taiga.io/support/gitlab-integration/>`_
+- `Changing history or how to Git pretty <http://justinhileman.info/article/git-pretty/>`_
