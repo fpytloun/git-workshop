@@ -4,6 +4,8 @@ Git workshop
 Presentation for Git workshop, written in reStructuredText, build using
 Hovercraft.
 
+`See compiled presentation here <https://fpy.cz/pub/slides/git-workshop/>`_
+
 Build
 -----
 
